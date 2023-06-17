@@ -1,5 +1,6 @@
-# Progressive Web Applications (PWA): Text Editor
-<!--
+# Progressive Web Applications (PWA): Text Editor [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Table of Contents
 
 - [Description](#📝-description)
@@ -15,8 +16,8 @@
 
 ## 📝 Description
 
+For Module #19 we were tasked with adding to starter code to create a text-editor that runs in the browser and can be installed as a PWA for offline use. By using the class activities and class recordings as references I was able to build a deployed app that meets the below criteria.
 
--->
 
 ### 👤 User Story
 
@@ -58,33 +59,36 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ---------------
-<!--
+
 ## 🛠️ Technologies Used
 
 <ul>
-<li>HTML
-<li>CSS
 <li>JavaScript
-<li>
-<li>
+<li>idb
+<li>WebpackPwaManifest
+<li>Heroku
 </ul>
 
 -----------------
 
 ## 💻 Usage
 
+By clicking on the link at the bottom of the readme, you can imediately start adding text snippets and using the app in the browser or hit 'install' to download the PWA to use it later.
+
 ### 📸 Screenshot
+
+![screenshot of deployed app](./assets/images/screenshot.jpeg)
+
 ----------------
--->
 
 
-## 📃 License
+## 📃 License 
 
 Please refer to the LICENSE in the repo.
 
 ---------------
-<!--
-##  🔗 Links
 
--->
+##  🔗 Links 
+
+Deployed Application: https://another-note-taker-0303027f81b2.herokuapp.com/
 
